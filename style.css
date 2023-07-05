@@ -4,3 +4,9 @@ body{
 h1{
     color:brown;
 }
+div{
+    background-color:aqua;
+    width:50%;
+    margin-left:100px;
+    padding:20px;
+}
